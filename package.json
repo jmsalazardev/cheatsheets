@@ -1,0 +1,21 @@
+{
+  "name": "cheatsheets",
+  "version": "1.0.0",
+  "description": "A tech cheatsheet repository",
+  "scripts": {
+    "format": "prettier --config .prettierrc.json \"./**/*.{md,json}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmsalazardev/cheatsheets.git"
+  },
+  "author": "Jose Miguel Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmsalazardev/cheatsheets/issues"
+  },
+  "homepage": "https://github.com/jmsalazardev/cheatsheets#readme",
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}
